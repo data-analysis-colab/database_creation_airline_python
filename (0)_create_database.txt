@@ -1,0 +1,2 @@
+
+Use preferred SQL admin tool (or any command line interface) to create "airline_database" with default settings
