@@ -112,4 +112,4 @@ Flexible; at least one year recommended for full realism.
 - Extensive debugging was required to ensure valid multi-day aircraft scheduling
 
 ## Authors
-Jan H. Schüttler (Linkedin), Behzad Nematipour ([linkedin](https://linkedin.com/in/behzad-nematipour-99b8b4399))
+Jan H. Schüttler ([LinkedIn](https://www.linkedin.com/in/jan-heinrich-sch%C3%BCttler-64b872396/)), Behzad Nematipour ([LinkedIn](https://linkedin.com/in/behzad-nematipour-99b8b4399))
